@@ -1,7 +1,29 @@
 aid: tellgen
-name: tellgen
-description: tellgen is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tellgen.png
+name: Tellgen
+description: >-
+  Shanghai Tellgen Life Sciences Co., Ltd. (Tellgen Corporation) is a Chinese in
+  vitro diagnostics (IVD) company founded in 2003 and headquartered in Shanghai,
+  focused on the research, development, manufacture, and distribution of high-end
+  diagnostic reagents and instruments. Its portfolio spans tumor markers, HPV
+  detection, autoimmune antibodies, infectious disease, thrombosis and
+  reproductive-health assays across flow-fluorescence, chemiluminescence,
+  real-time PCR / molecular, and clinical-chemistry platforms (TESMI analyzer
+  family). The company was listed on the Shenzhen Stock Exchange ChiNext board in
+  April 2017 (ticker 300642) and counts Qiming Venture Partners among its early
+  investors. Tellgen is a medical-device and laboratory-reagent manufacturer and
+  publishes no public developer API, SDK, or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/tellgen/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +33,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- In Vitro Diagnostics
+- IVD
+- Medical Devices
+- Diagnostics
+- Life Sciences
+- Healthcare
+- Reagents
+- Molecular Diagnostics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,9 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://tellgen.com
+  url: https://www.tellgen.com
+x-enrichment:
+  date: '2026-07-21'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
