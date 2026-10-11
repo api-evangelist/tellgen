@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "tellgen",
+    "captured_at": "2026-10-11T193835",
+    "source_url": "https://www.tellgen.com",
+    "source_type": "Website",
+    "file": "tellgen-2026-10-11T193835.png",
+    "bytes": 340898,
+    "capture": "playwright-local"
+  }
+]
